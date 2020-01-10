@@ -1,0 +1,17 @@
+--- 
+phases: 
+  build: 
+    commands: 
+      - "echo Build started on `date`"
+      - "echo Building the Doc image..."
+      - "docker build -t hybridblockPH/adaxtech-web"
+      - "docker tag hybridblockPH/adaxtech-web hybridblockPH/adaxtech-web:latest"
+  post_build: 
+    commands: 
+      - "echo Build completed on `date`"
+      - "echo Pushing the Docker image..."
+      - "docker push hybridblockPH/adaxtech-web:latest"
+  pre_build: 
+    commands: 
+      - "echo Logging in to Docker Hub..."
+version: 0.1

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="126px" height="246px" viewBox="0 0 126 246" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>p7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="33.8391777 204.596064 33.8407022 180.596064 1.84070218 192.501092"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FF6100" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="adax" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-1794.000000, -2819.000000)">
+            <g id="polys" transform="translate(-61.000000, 75.000000)">
+                <g id="p7" transform="translate(1853.000000, 2744.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Clip-74" fill="url(#linearGradient-1)" transform="translate(17.840702, 192.596064) rotate(10.000000) translate(-17.840702, -192.596064) " xlink:href="#path-2"></use>
+                    <polygon id="Rectangle" fill="#FFB600" mask="url(#mask-3)" transform="translate(133.519936, 198.511737) scale(-1, 1) translate(-133.519936, -198.511737) " points="161.505582 113 255.039872 113 105.53429 284.023474 12 284.023474"></polygon>
+                    <polygon id="Fill-47-Copy" fill="url(#linearGradient-4)" transform="translate(131.000000, 22.000000) scale(-1, 1) rotate(-90.000000) translate(-131.000000, -22.000000) " points="153 39.4621896 124.331116 56 109 -12"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="227px" viewBox="0 0 112 227" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>p4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="91.514007 70.6591639 91.5193077 54.749059 70.272287 62.6468706"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FF6100" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="adax" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-1808.000000, -748.000000)">
+            <g id="polys" transform="translate(-61.000000, 75.000000)">
+                <g id="p4" transform="translate(1869.000000, 671.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Clip-74" fill="url(#linearGradient-1)" transform="translate(80.895797, 62.704111) rotate(10.000000) translate(-80.895797, -62.704111) " xlink:href="#path-2"></use>
+                    <polygon id="Fill-73" fill="url(#linearGradient-4)" transform="translate(103.838658, 221.680454) rotate(-100.000000) translate(-103.838658, -221.680454) " points="93.9155336 232.20232 113.761783 235.703041 108.55612 207.657868"></polygon>
+                    <polygon id="Rectangle" fill="#FFB600" points="99.0388881 96 161 96 61.9611119 209 1.11716192e-15 209"></polygon>
+                    <polygon id="Fill-47-Copy" fill="url(#linearGradient-5)" transform="translate(103.500000, 14.500000) rotate(-90.000000) translate(-103.500000, -14.500000) " points="118 26.0558607 99.104599 37 89 -8"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

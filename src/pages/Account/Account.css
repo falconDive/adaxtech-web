@@ -1,0 +1,75 @@
+.btn {
+	border-radius: 28.5px;
+	font-size: 12px;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.btn-outline-warning {
+	color: #ffb600;
+	border: 2px solid #ffb600;
+	font-size: 14px;
+	min-width: 117px;
+}
+
+.btn-outline-warning:hover {
+	border-color: #ffb600;
+}
+
+.btn-warning {
+	border-color: #ffb600;
+	background-color: #ffb600;
+	color: #3b3b3b;
+}
+
+.text-black {
+	color: #000000 !important;
+}
+
+.form-control {
+	border: 0;
+	border-bottom: 2px solid #dcdcdc;
+	border-radius: 0;
+	outline: none !important;
+	box-shadow: none !important;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.form-group label {
+	color: #939598;
+}
+
+.error-label {
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 0;
+	font-size: 12px;
+	color: #a94442;
+}
+
+.c-pointer {
+	cursor: pointer;
+}
+
+.ui.table {
+	/* color: #ffffff !important; */
+}
+.ui.modal {
+	background: rgba(0, 0, 0, 0) !important;
+}
+.ui.medium.modal {
+	width: 100% !important;
+}
+
+.ui.small.modal {
+	width: 100% !important;
+}
+.DayPickerInput {
+	color: #000 !important;
+	width: 100%;
+}
+.datapicker-container.ui.table {
+	color: #000 !important;
+}

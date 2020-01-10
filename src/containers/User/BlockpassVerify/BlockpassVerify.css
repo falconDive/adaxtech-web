@@ -1,0 +1,11 @@
+.bpv-backdrop.show {
+	opacity: 1
+}
+.bpv-modal .modal-dialog{
+	max-width: unset;
+	margin: 1.75em;
+	color: #fff;
+}
+.bpv-modal .modal-content{
+	background: transparent;
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="197px" viewBox="0 0 100 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>p2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-3" points="33.7974399 99.2981186 33.7981753 86.5586908 16.9373774 92.877903"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-6" points="37.9908959 41.9038367 39.9392135 38.6242872 35.1977587 34.258067"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-9" points="47.8542043 64.1791157 46.732586 60.5328437 40.3134378 61.1136792"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#FF6100" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="adax" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(0.000000, -90.000000)">
+            <g id="polys" transform="translate(-61.000000, 75.000000)">
+                <g id="p2" transform="translate(42.000000, 15.000000)">
+                    <polygon id="Rectangle-Copy-4" fill="url(#linearGradient-1)" transform="translate(44.024080, 99.387387) scale(-1, 1) rotate(100.000000) translate(-44.024080, -99.387387) " points="27.1882172 72.0432689 84.8660119 61.8731175 50.955675 128.477895 3.18214815 136.901657"></polygon>
+                    <g id="Group-13" transform="translate(64.433498, 95.837838)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Clip-74" fill="url(#linearGradient-2)" transform="translate(25.367776, 92.928405) rotate(10.000000) translate(-25.367776, -92.928405) " xlink:href="#path-3"></use>
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Clip-119" fill="url(#linearGradient-5)" transform="translate(37.568486, 38.080952) rotate(10.000000) translate(-37.568486, -38.080952) " xlink:href="#path-6"></use>
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <use id="Clip-146" fill="url(#linearGradient-8)" transform="translate(44.083821, 62.355980) rotate(10.000000) translate(-44.083821, -62.355980) " xlink:href="#path-9"></use>
+                        <polygon id="Fill-145" fill="url(#linearGradient-8)" transform="translate(44.083821, 62.355980) rotate(10.000000) translate(-44.083821, -62.355980) " points="47.8542043 64.1791157 46.732586 60.5328437 40.3134378 61.1136792"></polygon>
+                        <polygon id="Fill-73" fill="url(#linearGradient-11)" transform="translate(10.043980, 56.184380) rotate(-100.000000) translate(-10.043980, -56.184380) " points="3.77110062 62.822408 16.3168603 65.0353796 13.0214067 47.3333812"></polygon>
+                        <polygon id="Fill-88" fill="url(#linearGradient-12)" transform="translate(46.357650, 5.728513) rotate(-100.000000) translate(-46.357650, -5.728513) " points="42.278272 13.0856241 50.4370288 13.9710806 45.5689275 -2.51405408"></polygon>
+                        <polygon id="Fill-118" fill="url(#linearGradient-13)" transform="translate(9.983492, 29.289417) rotate(-100.000000) translate(-9.983492, -29.289417) " points="5.97618149 28.7567987 8.86759594 31.2450224 13.9908028 27.3338108"></polygon>
+                    </g>
+                    <polygon id="Fill-47-Copy" fill="url(#linearGradient-14)" transform="translate(62.068966, 12.127628) scale(-1, 1) rotate(-90.000000) translate(-62.068966, -12.127628) " points="73.9007973 21.3874963 58.4823692 30.1571843 50.2371337 -5.90192902"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

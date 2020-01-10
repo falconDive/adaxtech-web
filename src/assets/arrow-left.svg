@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>611E5D21-8B11-4A5D-8C88-6047494BE66E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="27.5" cy="27.5" r="27.5"></circle>
+        <filter x="-10.9%" y="-5.5%" width="121.8%" height="121.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Main-pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forgot-Password" transform="translate(-1011.000000, -255.000000)" fill-rule="nonzero">
+            <g id="arrow-down" transform="translate(1041.500000, 282.500000) scale(-1, 1) translate(-1041.500000, -282.500000) translate(1014.000000, 255.000000)">
+                <g id="Oval-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <circle stroke="#424242" stroke-width="1.5" stroke-linejoin="square" fill="#1D1D1D" fill-rule="evenodd" cx="27.5" cy="27.5" r="26.75"></circle>
+                </g>
+                <path d="M27.4999757,32.3888889 C27.2371191,32.3888889 26.9742951,32.2861819 26.7738905,32.0811997 L20.4675413,25.6275999 C20.0663751,25.2170709 20.0663751,24.5514685 20.4675413,24.1411055 C20.8685452,23.7307426 21.5188375,23.7307426 21.9200362,24.1411055 L27.4999757,29.8516076 L33.0799476,24.1413048 C33.4811138,23.7309419 34.1313412,23.7309419 34.5323126,24.1413048 C34.9336736,24.5516678 34.9336736,25.2172702 34.5323126,25.6277992 L28.2260608,32.081399 C28.0255589,32.2864144 27.7627348,32.3888889 27.4999757,32.3888889 Z" id="Shape" fill="#FFFFFF" transform="translate(27.500000, 28.111111) rotate(-90.000000) translate(-27.500000, -28.111111) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

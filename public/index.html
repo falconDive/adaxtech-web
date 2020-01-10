@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="theme-color" content="#000000" />
+  <!--
+      manifest.json provides metadata used when your web app is added to the
+      homescreen on Android. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+  <title>ADAX</title>
+
+  <!-- <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"> -->
+  <link rel="stylesheet" type="text/css" href="libs/tradeStyles.css">
+
+  <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" src="http://127.0.0.1:3002/libs/charting_library_new/datafeed/ChartAPI.js"></script>
+  <script type="text/javascript" src="http://127.0.0.1:3002/libs/charting_library_new/charting_library.min.js"></script> -->
+
+</head>
+
+<!-- <body> -->
+<!-- <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script> -->
+<!-- <script type="text/javascript"> FreshWidget.init("", {"queryString": "&widgetType=popup&submitTitle=Please+Submit&submitThanks=Thank+You!&captcha=yes", "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Support", "buttonColor": "black", "buttonBg": "#DAD400", "alignment": "3", "offset": "1350px", "submitThanks": "Thank You!", "formHeight": "500px", "captcha": "yes", "url": "https://help.adaxtech.com"} ); -->
+<!-- </script> -->
+
+  
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+  <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script> -->
+    <script type="text/javascript">
+        // $('.dropdown-item').click(function() {
+        //     $('li#dropdown').removeClass("parent");
+        //     $(this).closest('#dropdown').addClass('parent');
+        //     $('#v-pills-tab li').removeClass("active");
+        //     $('.dropdown-item').removeClass("active");
+        //     $(this).parent().addClass("active");
+        // });
+        // $('#v-pills-tab li.parents a[role=tab]').click(function() {
+        //     $('#v-pills-tab li.parents').removeClass("active");
+        //     $('li#dropdown').removeClass("parent");
+        //     $(this).parent().addClass("active");
+        // });
+        // $("#menu-toggle").click(function(e) {
+        //     e.preventDefault();
+        //     $("#wrapper").toggleClass("toggled");
+        // });
+    </script>
+    <script type="text/javascript">
+        // $(document).ready(function () { 
+        //     $("#sidebar").mCustomScrollbar({
+        //         theme: "minimal"
+        //     });
+        //     $('#dismiss, .overlay').on('click', function () {
+        //         $('#sidebar').removeClass('active');
+        //         $('.overlay').removeClass('active');
+        //         $('#sidebarCont').hide();
+        //         $('body').css('cssText', 'overflow:auto;position:relative;');
+        //     });
+        //     $('#sidebarCollapse').on('click', function () {
+        //         $('#sidebarCont').show();
+        //         $('#sidebar').addClass('active');
+        //         $('.overlay').addClass('active');
+        //         $('.collapse.in').toggleClass('in');
+        //         $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+        //         $('body').css('cssText', 'overflow:hidden;position:fixed;width:100%;');
+        //     });
+        //     $('#sidebarCont li a.parents, #sidebarCont li a.dropdown-item').on('click', function () {
+        //         $('#sidebar').removeClass('active');
+        //         $('.overlay').removeClass('active');
+        //         $('#sidebarCont').hide();
+        //         $('body').css('cssText', 'overflow:auto;position:relative;');
+        //     });
+        //     $('#portalMenuCont li a.parents, #portalMenuCont li a.dropdown-item').on('click', function () {
+        //         document.body.scrollTop = 0; // For Safari
+        //         document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        //     })
+        //     var substringMatcher = function(strs) {
+        //     return function findMatches(q, cb) {
+        //         var matches, substringRegex;
+        //         // an array that will be populated with substring matches
+        //         matches = [];
+        //         // regex used to determine if a string contains the substring `q`
+        //         substrRegex = new RegExp(q, 'i');
+        //         // iterate through the pool of strings and for any string that
+        //         // contains the substring `q`, add it to the `matches` array
+        //         $.each(strs, function(i, str) {
+        //         if (substrRegex.test(str)) {
+        //             matches.push(str);
+        //         }
+        //         });
+        //         cb(matches);
+        //     };
+        //     };
+        //     var topics = ['Background Information', 'Contents Common to Many API Calls', 'RegisterNewUser', 'WebAuthenticateUser', 'Authenticate2FA', 'LogOut', 'ResetPassword', 'GetAvailablePermissionList', 'GetUserConfig', 'GetUserInfo', 'GetUserPermissions', 'RemoveUserConfig', 'SetUserConfig', 'SetUserInfo', 'CancelAllOrders', 'CancelOrder', 'CancelQuote', 'CancelReplaceOrder', 'CreateQuote', 'GetAccountInfo', 'GetAccountPositions', 'GetAccountTrades', 'GetAccountTransactions', 'GetInstrument', 'GetInstruments', 'GetOpenOrders', 'GetOpenQuotes', 'GetOrderFee', 'GetOrderHistory', 'GetOrderHistoryByOrderId', 'GetOrdersHistory', 'GetOrderStatus', 'GetProduct', 'GetProducts', 'GetUserAccounts', 'GetUserAccountInfos', 'ModifyOrder', 'SendOrder', 'UpdateQuote', 'ScheduleTradeActivityReport', 'ScheduleTransactionActivityReport', 'ScheduleTreasuryActivityReport', 'GetL2Snapshot', 'GetTickerHistory', 'GetTradesHistory', 'SubscribeAccountEvents', 'SubscribeLevel1', 'SubscribeLevel2', 'SubscribeTicker', 'SubscribeTrades', 'UnsubscribeLevel1', 'UnsubscribeLevel2', 'UnsubscribeTicker', 'UnsubscribeTrades', 'CreateDepositTicket', 'CreateWithdrawTicket', 'GetAllDepositRequestInfoTemplates', 'GetAllDepositTickets', 'GetAllWithdrawTickets', 'GetDepositInfo', 'GetDepositRequestInfoTemplate', 'GetDepositTicket', 'GetWithdrawTemplate', 'GetWithdrawTemplateTypes', 'GetWithdrawTicket', 'GetWithdrawTickets', 'UpdateDepositTicket', 'UpdateWithdrawTicket'
+        //     ];
+        //     $('.typeahead').typeahead({
+        //     hint: true,
+        //     highlight: true,
+        //     minLength: 1
+        //     },
+        //     {
+        //     name: 'topics',
+        //     source: substringMatcher(topics)
+        //     });
+        // });
+    </script>
+</body>
+
+</html>

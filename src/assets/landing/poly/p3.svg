@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="180px" viewBox="0 0 60 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>p3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFDC00" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FF6100" offset="0%"></stop>
+            <stop stop-color="#FFB600" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="adax" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-1860.000000, -90.000000)">
+            <g id="polys" transform="translate(-61.000000, 75.000000)">
+                <g id="p3" transform="translate(1921.000000, 0.000000)">
+                    <g id="Group-13-Copy" transform="translate(4.183877, 87.545736)">
+                        <polygon id="Fill-73" fill="url(#linearGradient-1)" transform="translate(17.537430, 97.983022) rotate(-100.000000) translate(-17.537430, -97.983022) " points="6.59817979 109.578087 28.4766795 113.437281 22.7364648 82.5287622"></polygon>
+                        <polygon id="Fill-118" fill="url(#linearGradient-2)" transform="translate(17.432421, 51.077314) rotate(-100.000000) translate(-17.432421, -51.077314) " points="10.4435323 50.1494379 15.4850826 54.4930411 24.4213104 47.6615877"></polygon>
+                    </g>
+                    <polygon id="Fill-47-Copy-2" fill="url(#linearGradient-3)" transform="translate(54.869179, 67.238202) scale(-1, 1) rotate(160.000000) translate(-54.869179, -67.238202) " points="92.1986811 96.9182155 43.5885205 124.982998 17.5396768 9.49340654"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="91px" viewBox="0 0 71 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54 (76480) - https://sketchapp.com -->
+    <title>9A63792D-3FFD-4034-890F-7FE95BAC7FF6</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kyc" transform="translate(-138.000000, -480.000000)">
+            <g id="Group-10" transform="translate(138.000000, 480.000000)">
+                <g id="Group-5" transform="translate(13.000000, 0.000000)">
+                    <path d="M45,85.0389437 L45,52.6505381 C45,51.749829 44.3499672,51.0292618 43.5374261,51.0292618 C42.7248851,51.0292618 42.0748523,51.749829 42.0748523,52.6505381 L42.0748523,85.0553203 C42.0748523,86.5455843 40.9816152,87.7574474 39.6372292,87.7574474 L5.36277085,87.7574474 C4.01838477,87.7574474 2.92514773,86.5455843 2.92514773,85.0553203 L2.92514773,5.94467973 C2.92514773,4.45441566 4.01838477,3.25892911 5.36277085,3.25892911 L39.6372292,3.25892911 C40.9816152,3.25892911 42.0748523,4.47079219 42.0748523,5.94467973 L42.0748523,56.2397272 C42.0748523,57.1404362 42.7248851,57.8610035 43.5374261,57.8610035 C44.3499672,57.8610035 45,57.1404362 45,56.2397272 L45,5.94467973 C45,2.66937409 42.5919238,7.10542736e-15 39.6372292,7.10542736e-15 L5.36277085,7.10542736e-15 C2.40807617,7.10542736e-15 0,2.66937409 0,5.94467973 L0,85.0553203 C0,88.3306259 2.40807617,91 5.36277085,91 L39.6372292,91 C42.6066973,90.9836235 45,88.3142494 45,85.0389437 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polyline id="Path-2" stroke="#FFFFFF" stroke-width="3.21428571" points="9.64285714 2.14117647 12.8571429 8.56470588 30.5357143 8.56470588 34.8214286 2.14117647"></polyline>
+                </g>
+                <g id="Group-9" transform="translate(0.000000, 35.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="71" height="24" rx="4"></rect>
+                    <text id="Connect" font-family="BasisGrotesquePro-Bold, Basis Grotesque Pro" font-size="14" font-weight="bold" fill="#121212">
+                        <tspan x="7.461" y="16">Connect</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

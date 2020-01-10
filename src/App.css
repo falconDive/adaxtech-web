@@ -1,0 +1,120 @@
+@font-face {
+	font-family: "Basis Grotesque Bold Pro";
+	src: url("./fonts/basis-grotesque-bold-pro.otf") format("opentype");
+}
+@font-face {
+	font-family: "Basis Grotesque Light Pro";
+	src: url("./fonts/basis-grotesque-light-pro.otf") format("opentype");
+}
+@font-face {
+	font-family: "Basis Grotesque Off White Pro";
+	src: url("./fonts/basis-grotesque-off-white-pro.otf") format("opentype");
+}
+@font-face {
+	font-family: "Basis Grotesque Pro";
+	src: url("./fonts/basis-grotesque-regular-pro.otf") format("opentype");
+}
+@font-face {
+	font-family: Clan-Black;
+	src: url("./fonts/Clan-Black.otf") format("opentype");
+}
+@font-face {
+	font-family: Clan-Bold;
+	src: url("./fonts/Clan-Bold.otf") format("opentype");
+}
+@font-face {
+	font-family: Clan-Book;
+	src: url("./fonts/Clan-Book.otf") format("opentype");
+}
+@font-face {
+	font-family: Clan-Medium;
+	src: url("./fonts/Clan-Medium.otf") format("opentype");
+}
+@font-face {
+	font-family: Clan-News;
+	src: url("./fonts/Clan-News.otf") format("opentype");
+}
+@font-face {
+	font-family: Clan-Thin;
+	src: url("./fonts/Clan-Thin.otf") format("opentype");
+}
+@font-face {
+	font-family: Clan-Ultra;
+	src: url("./fonts/Clan-Ultra.otf") format("opentype");
+}
+
+body{
+	font-family: "Basis Grotesque Pro" !important;
+	font-weight: normal;
+	background-color: #121212 !important;
+	line-height: initial !important;
+}
+
+/* Modal overide css */
+
+.ui.modal{
+	border-radius: 8px !important;
+}
+.ui.modal>.header,
+.ui.modal>.content,
+.ui.modal>.actions{
+	background: #1D1D1D !important;
+	color: #ffffff !important;
+}
+
+.ui.popup{
+	background: #121212;
+    border-color: rgba(204, 204, 204, 0.53);
+	color: #fff;
+}
+
+.ui.popup h4{
+	color: #fff;
+}
+
+.ui.top.popup:before {
+    background: #121212;
+}
+
+.ui.dimmer{
+    background-color: rgba(0, 0, 0, 0.57) !important;;
+}
+
+.text-center{
+	text-align: center;
+}
+.dark {
+    background: #303030;
+}
+
+.c-pointer{
+	cursor: pointer;
+}
+
+.modal-welcome, .modal-welcome .ui.modal>.header, .ui.modal>.content, .ui.modal>.actions{
+	background: transparent !important;
+}
+
+.no-shadow{
+	box-shadow: none !important;
+}
+
+.fc-widget-normal {
+	right: auto !important;
+	left: 10px !important;
+	bottom: 5px !important;
+}
+.fc-widget-normal.fc-open {
+	left: 10px !important;
+}
+
+input.highcharts-range-selector:focus{
+	background: #212121;
+	color: #fff;
+	border: 1px transparent !important;
+	outline: none;
+    width: 92px !important;
+    height: 19px !important;
+    top: 12px !important;
+    margin-left: 2px;
+}

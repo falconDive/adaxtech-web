@@ -1,0 +1,10 @@
+FROM node:10.14.2
+WORKDIR /srv/adaxtech
+COPY package.json /srv/adaxtech
+RUN yarn
+
+COPY . /srv/adaxtech
+
+EXPOSE 3000
+
+CMD ["yarn", "start"]
